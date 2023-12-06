@@ -125,7 +125,7 @@ about them, but make sex either 'M' or 'F'):
 - Sergeant Brown
 - Melissa
 - Grinch
-- Wendy
+-  
 - unnamed (refer back to how to create a record that doesn't have one value)
 
 ***
